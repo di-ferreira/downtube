@@ -3,3 +3,5 @@
 /dist
 /ffmpeg/*/ffmpeg
 /ffmpeg/*/ffmpeg.*
+.vscode
+__pycache__
